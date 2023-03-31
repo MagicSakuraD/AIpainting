@@ -1,4 +1,4 @@
-# Getting Started with Create React App 使用 Create React App 快速入门
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 这个项目是使用 Create React App 工具进行快速启动的。
