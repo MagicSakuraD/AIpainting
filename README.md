@@ -51,7 +51,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ![分享生成的图片](./image/test3.jpg)
 
-![点赞功能](./image/test4.jpg)
+![点赞功能](./image/tset4.jpg)
 
 ### Deployment 部署
 
