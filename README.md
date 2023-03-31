@@ -27,7 +27,7 @@
 
 ![调用openai api生成图片](./image/test1.jpg)
 
-![适配手机屏幕](./image/test6.jpg)
+![适配手机屏幕](./image/test6.png)
 
 ![分享生成的图片](./image/test3.jpg)
 
