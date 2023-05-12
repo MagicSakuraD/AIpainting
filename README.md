@@ -36,3 +36,4 @@
 ### 部署
 
 本项目是一个关于 ai 绘画的 react 项目，用 supabase 作为数据库，调用了 openai 的 API，在 netlify 云平台部署，项目链接是https://aipainting-ck.netlify.app/
+本项目是基于一个udemy课程项目进行的扩展和改进，原课程项目的链接是https://todayilearned-jonas.netlify.app/
